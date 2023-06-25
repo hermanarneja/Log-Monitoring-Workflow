@@ -1,0 +1,6 @@
+#!/bin/bash
+while true
+do
+   python3 /path_to_script/log_analysis.py
+   sleep 600
+done
